@@ -1,0 +1,48 @@
+# Node.js dependencies
+node_modules/
+
+# Logs
+logs/
+*.log
+
+# Dependency directories
+jspm_packages/
+
+# Build output
+dist/
+build/
+
+# Environment files
+.env
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# IDE-specific files
+.vscode/
+.idea/
+
+# Python (if using for any scripts)
+__pycache__/
+*.pyc
+*.pyo
+
+# Miscellaneous
+*.swp
+*.swo
+*.sublime-project
+*.sublime-workspace
+*.vscode/
+
+# Coverage directory used by coverage.py
+.coverage
+.coverage.*
+*.cover
+*.py,cover
+
+# pyenv
+.python-version
+
+# dotenv
+.env
