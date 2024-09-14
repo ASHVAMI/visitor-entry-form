@@ -49,15 +49,6 @@ Responsive Design: The form is styled to be responsive and user-friendly on vari
 
 Contribution:
 Fork the Repository: Fork the repository on GitHub to make changes.
-Create a Feature Branch: Create a new branch for your feature or fix:
-git checkout -b feature/my-new-feature
-
-Make Changes: Implement your changes or features.
-
-Commit and Push:
-git add .
-git commit -m "Add my new feature"
-git push origin feature/my-new-feature
 
 License:
 This project is licensed under the MIT License. See the LICENSE file for details.
